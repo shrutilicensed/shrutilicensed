@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shruti 
 
-I'm a Computer Science Engineering Undergrad interested in Web Development. I can work on HTML, CSS, JavaScript and am trying to get hands on experience at VueJS.
+I'm a Computer Science Engineering Undergrad interested in Web Development. I can work on HTML, CSS, JavaScript and currntly learning at VueJS.
 
 Other than web development, I'm practicing JAVA consistently and building my programming skill and logic. 
 
