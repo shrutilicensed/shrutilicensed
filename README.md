@@ -2,7 +2,7 @@
 
 I'm a Computer Science Engineering Undergrad interested in Web Development. I can work on HTML, CSS, JavaScript and currntly learning at VueJS.
 
-Other than web development, I'm practicing JAVA consistently and building my programming skill and logic. 
+Other than web development, I'm practicing JAVA consistently to upgrade my logic and programming skill. 
 
 I'm also interested in digital art and designing. I'm an approved phone wallpaper creator at Zedge (sabreenshruti). 
 <!--
