@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Shruti 
 
-I'm a Computer Science Engineering Undergrad interested in Web Development. I can work on HTML, CSS, JavaScript and currntly learning at VueJS.
+I'm a Computer Science Engineering Undergrad interested in Web Development. 
 
-Other than web development, I'm practicing JAVA consistently to upgrade my logic and programming skill. 
+My skill belt consists of : React JS, JavaScript, CSS3, HTML5, MySQL, OOPS, Java, Python, UI/UX Design using Figma, Bootstrap.
 
-I'm also interested in digital art and designing. I'm an approved phone wallpaper creator at Zedge (sabreenshruti). 
+I'm also interested in digital art and designing. You can check out my phone wallpapers at Zedge (sabreenshruti). 
 <!--
 **shrutilicensed/shrutilicensed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
