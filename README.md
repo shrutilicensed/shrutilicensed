@@ -7,6 +7,9 @@ My skill belt consists of : React JS, JavaScript, CSS3, HTML5, MySQL, OOPS, Java
 I'm also interested in digital art and designing. You can check out my phone wallpapers at Zedge (sabreenshruti). 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shrutilicensed&theme=onedark)](https://github.com/shrutilicensed/github-profile-trophy)
+
+Checkout my github stats:
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutilicensed&show_icons=true&theme=transparent)
 <!--
 **shrutilicensed/shrutilicensed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
