@@ -21,6 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilicensed&show_icons=true&locale=en&layout=compact" alt="shrutilicensed" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutilicensed&show_icons=true&locale=en" alt="shrutilicensed" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilicensed&" alt="shrutilicensed" /></p>
