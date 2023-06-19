@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutilicensed" alt="shrutilicensed" /></a> </p>
 
-- 💻 I’m currently working on [React Journey](https://github.com/shrutilicensed/React_Journey)
+- 💻 I’m currently working on my [React Journey](https://github.com/shrutilicensed/React_Journey)
 
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrutilicensed?tab=repositories](https://github.com/shrutilicensed?tab=repositories)
 
-- 📫 Contact me on LinkedIn **https://www.linkedin.com/in/shruti-choudhary-s0613/**
+- 📫 Contact me via LinkedIn **https://www.linkedin.com/in/shruti-choudhary-s0613/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilicensed&show_icons=true&locale=en&layout=compact" alt="shrutilicensed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutilicensed&show_icons=true&locale=en" alt="shrutilicensed" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutilicensed&show_icons=true&locale=en" alt="shrutilicensed" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilicensed&" alt="shrutilicensed" /></p>
