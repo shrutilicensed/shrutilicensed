@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on my [React Journey](https://github.com/shrutilicensed/React_Journey)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **UI/UX Design**
 
 - 👨‍💻 All of my projects are available on my [Git Hub Repository List](https://github.com/shrutilicensed?tab=repositories)
 
@@ -19,10 +19,10 @@
 
 <h4>Fun Facts 😁 :</h4>
  
- - I like UI/UX designing
+ - I like Graphic and UI/UX designing
  - I am a Zedge Premium phone wallpaper seller (checkout sabreenshruti on Zedge app)
  - I am obsessed with cats
- - I love to bingewatch anime
+ - I bingeread/watch: mangas, webtoons, anime
 
 <h4> My Resume : </h4>
 
