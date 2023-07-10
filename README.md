@@ -22,7 +22,7 @@
  - I like Graphic and UI/UX designing
  - I am a Zedge Premium phone wallpaper seller (checkout sabreenshruti on Zedge app)
  - I am obsessed with cats
- - I bingeread/watch: mangas, webtoons, anime
+ - I binge read/watch: mangas, webtoons, novels, anime
 
 <h4> My Resume : </h4>
 
