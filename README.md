@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti (✿◡‿◡)</h1>
 <h3 align="center">An aspiring React.JS Developer</h3>
 
-- 💻 I’m currently working on my [React Journey](https://github.com/shrutilicensed/React_Journey)
+- 💻 I’m currently working on my [React Journey](https://github.com/shrutilicensed/React_Journey) and *Oasis Infobyte Internship tasks*
 
 - 🌱 I’m currently learning **React.js** and **UI/UX Design**
 
