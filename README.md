@@ -23,6 +23,7 @@
  - I am a Zedge Premium phone wallpaper seller (checkout sabreenshruti on Zedge app)
  - I am obsessed with cats
  - I binge read/watch: mangas, webtoons, novels, anime
+ - I draw mandala art
 
 <h4> My Resume : </h4>
 
