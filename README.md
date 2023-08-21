@@ -3,8 +3,6 @@
 
 - 💻 I’m currently working on my [React Journey](https://github.com/shrutilicensed/React_Journey) and practising JavaScript
 
-- 🌱 I’m currently learning **React.js** and **UI/UX Design**
-
 - 👨‍💻 All of my projects are available on my [Git Hub Repository List](https://github.com/shrutilicensed?tab=repositories)
 
 - 📫 Contact me via LinkedIn [Shruti Choudhary](https://www.linkedin.com/in/shruti-choudhary-s0613/)
