@@ -7,7 +7,7 @@
 
 - 📫 Contact me via LinkedIn [Shruti Choudhary](https://www.linkedin.com/in/shruti-choudhary-s0613/)
 
-<h3 align="left">Other projects on: </h3>
+<h3 align="left">Other Practise projects on: </h3>
 <p align="left">
 <a href="https://codesandbox.com/shrutilicensed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shrutilicensed" height="30" width="40" /></a>
 </p>
