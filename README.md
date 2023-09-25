@@ -28,4 +28,4 @@
 
 <h4> My Resume : </h4>
 
-[Shruti Choudhary Web Developer Resume](https://drive.google.com/file/d/1iwjp4NK3_myMbLk4doYmYwt7ymK3pShK/view?usp=drive_link)
+[Shruti Choudhary Front End Developer Resume](https://drive.google.com/file/d/1iwjp4NK3_myMbLk4doYmYwt7ymK3pShK/view?usp=drive_link)
