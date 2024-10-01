@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti (✿◡‿◡)</h1>
-<h3 align="center">An aspiring React.JS Developer</h3>
+<h3 align="center">An aspiring Web Developer</h3>
 
 - 💻 I’m currently working on my [React Journey](https://github.com/shrutilicensed/React_Journey) and practising JavaScript
 
